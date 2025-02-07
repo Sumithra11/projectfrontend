@@ -1,0 +1,25 @@
+.icons{
+    width: 50px;
+    height: 98px;
+    position: absolute;
+    left: 148px;
+    z-index: 1;
+}
+.cl{
+    display: flex;
+    justify-content: 100px;
+    
+}
+
+.wrap{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 120px;
+    height: 500px;
+    width: 300px;
+    background-color: cadetblue;
+    flex-wrap: justify;
+    flex-direction: column;
+    padding: 30px;
+
+}
